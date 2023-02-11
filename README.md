@@ -1,2 +1,2 @@
-# Correlation-in-Python-
+# Correlation-in-Python
 Correlation of movie data
